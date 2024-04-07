@@ -16,6 +16,10 @@ Using the slicing concept rotate the list
 ### Step 6: 
 ## Program:
 ```
+Developed by: Mahasri p
+register no: 212223100029
+
+
 def circulate():
     l=eval(input())
     m=int(input())
