@@ -15,7 +15,17 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-
+'''
+def circulate():
+    l=eval(input())
+    m=int(input())
+    l=l[m: ]+l[ :m]
+    print("After circulating the values are:",l)
+'''
 ## Output:
+
+![Alt text](<Screenshot 2024-04-07 at 3.03.29 PM.png>)
+
+
 
 ## Result:
